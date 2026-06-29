@@ -83,6 +83,8 @@ The strongest language signal from those repos is **Python** and **TypeScript**,
 
 This profile is generated from public GitHub evidence: my public repositories, recent public activity, and recent starred repositories. It is not meant to overstate contribution level or ownership. When I mention a fork or an experiment, I label it that way.
 
+For a short evidence log behind this page, see [PROFILE_SOURCES.md](PROFILE_SOURCES.md).
+
 Last refreshed from public GitHub data: **2026-06-29**.
 
 ---

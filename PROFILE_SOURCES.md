@@ -74,10 +74,10 @@ The profile README intentionally emphasizes:
 
 ## Publishing
 
-To make this visible as the GitHub profile homepage:
+This profile was published to the public GitHub profile repository:
 
-1. Create a public repository named exactly `plaxkk/plaxkk`.
-2. Put `README.md` at the repository root.
-3. Optionally keep this `PROFILE_SOURCES.md` in the same repository for transparency.
+- Repository: <https://github.com/plaxkk/plaxkk>
+- Homepage target: <https://github.com/plaxkk>
+- Published on: 2026-06-29
 
-The profile repository was not publicly available when this package was generated, and the local GitHub CLI token was expired, so the files were prepared locally rather than pushed directly.
+`README.md` is the visible profile homepage. This file is kept in the repository as a transparency note for future updates.
