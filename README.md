@@ -1,91 +1,104 @@
 <h1 align="center">plaxkk</h1>
 
 <p align="center">
-  Building practical local-first tools, AI-agent workflows, and small products that can be tested in the real world.
+  Building AI workflows, simulated worlds, and useful tools for everyday life.
 </p>
 
 <p align="center">
   <a href="https://github.com/plaxkk?tab=repositories">Projects</a>
-  ·
-  <a href="https://github.com/plaxkk?tab=stars">Stars</a>
-  ·
-  <a href="https://github.com/plaxkk/AiTeam">AiTeam</a>
-  ·
-  <a href="https://github.com/plaxkk/MirrorLife">MirrorLife</a>
-  ·
-  <a href="https://github.com/plaxkk/nestful">Nestful</a>
+  · <a href="https://mirrorlife.kkplayit.online/">Play MirrorLife</a>
+  · <a href="https://github.com/plaxkk/paper-loop">Paper Loop</a>
+  · <a href="https://jetbrains-keygen.kkplayit.online/">JetBrains Tool</a>
 </p>
 
 ---
 
-I try to build in a way that is honest about the current state of the work: useful first, polished later, with clear boundaries around what is proven and what is still an experiment.
+**Be real, be brave, be positive.**
 
-My GitHub bio says it simply: **be real, be brave, be positive**.
+I build small products around problems I want to understand: working with AI coding agents, creating living game worlds, coordinating family life, planning trips, and turning research into useful writing. I use these projects to explore what one person can build with AI while keeping product decisions and review in human hands.
 
-## Now
+## What I've Been Building in 2026
 
-| Area | What I am exploring | Public work |
+Work from January through **September 19, 2026**, grouped by theme. Some projects are usable tools; others are MVPs or playable experiments still taking shape.
+
+| Theme | Project | Explore |
 | --- | --- | --- |
-| AI-assisted development | How one person can run a tighter product and engineering loop with coding agents, audits, and local evidence | [AiTeam](https://github.com/plaxkk/AiTeam), [slark fork](https://github.com/plaxkk/slark) |
-| Social simulation and narrative | Turning real-life fragments into simulated actions, echoes, and replayable stories | [MirrorLife](https://github.com/plaxkk/MirrorLife) |
-| Family collaboration | Private family spaces, reminders, memories, health routines, and WeChat-first workflows | [Nestful](https://github.com/plaxkk/nestful) |
-| Local data and personal tools | WeChat/chat-history tooling, CLI workflows, privacy-aware analysis, and self-hosted utilities | recent stars and experiments |
+| AI development workflows | **AiTeam** — local project visibility, execution review, and rule feedback | [Source](https://github.com/plaxkk/AiTeam) |
+| Social simulation | **MirrorLife** — avatars, relationships, memories, and an explorable world | [Play](https://mirrorlife.kkplayit.online/) · [Source](https://github.com/plaxkk/MirrorLife) |
+| Family collaboration | **Nestful** — a private family space in a WeChat Mini Program | [Source](https://github.com/plaxkk/nestful) |
+| AI itinerary planning | **TravelAi** — conversational planning, daily itineraries, and maps | In development |
+| Research and writing | **Paper-loop** — paper study, article review, draft distribution, and feedback | [Source](https://github.com/plaxkk/paper-loop) |
+| Browser utilities | **jetbrains-keygen** — a browser-based technical research tool | [Website](https://jetbrains-keygen.kkplayit.online/) · [Source](https://github.com/plaxkk/jetbrains-keygen) |
 
-## What I Care About
+### AiTeam · Working With an AI Development Team
 
-- **Reliable local systems**: tools that can run on my machine, keep data ownership visible, and avoid unnecessary cloud coupling.
-- **AI agents with accountability**: AI can help with execution, but the product judgment, scope control, and final responsibility should stay explicit.
-- **Small product loops**: I like MVPs with a real feedback path instead of broad architecture that has not met users yet.
-- **Transparent learning**: I am comfortable showing unfinished work when the direction, limits, and next questions are clear.
-- **Human-scale software**: family tools, personal data tools, narrative games, and workflows that serve ordinary life instead of only demos.
+AiTeam grew out of a practical question: when coding agents are doing a lot of work, how do I tell whether a project is actually moving forward?
 
-## Recent Projects
+It collects local Codex and Claude Code sessions, groups them by repository, and turns execution records into project health, role evaluations, audit findings, and cost visibility. Product, engineering, QA, and tech-lead perspectives help identify unclear inputs, repeated work, and missing delivery evidence.
 
-### [AiTeam](https://github.com/plaxkk/AiTeam)
+This year's work connected collection, analysis, founder briefs, execution reviews, and rule feedback into a local workflow. Accepted lessons can feed back into project rules for the next iteration. I also separated dashboard reads from analysis synchronization to improve responsiveness. Conversation data stays local by default.
 
-A local dashboard and operating loop for independent developers working with AI coding agents. It collects local Codex / Claude-style sessions, groups them by project, and turns execution traces into project health, role quality, audit findings, and rule feedback.
+[Explore AiTeam](https://github.com/plaxkk/AiTeam)
 
-Why it matters to me: AI coding is powerful, but without a feedback system it is easy to confuse activity with progress.
+### MirrorLife · Trying Another Life Through a Simulated World
 
-### [MirrorLife](https://github.com/plaxkk/MirrorLife)
+MirrorLife is an experimental social-simulation and narrative game. Create an avatar, bring a choice or a fragment of life into a community, and see how actions shape relationships, memories, and later stories.
 
-A personal narrative social-simulation game. The core loop is: real-life fragment -> avatar action -> social response -> city echo -> archive. It is intentionally framed as an experimental game, not as therapy or a psychological promise.
+This year, the project grew from a cartoon community prototype into a playable world with personality, needs, emotions, social behavior, and memory. Citizens act through local simulation rules; narrative systems use evidence from those actions to build stories and lasting consequences.
 
-Why it matters to me: I am interested in whether simulation and narrative can make reflection feel alive without pretending to solve someone's life.
+Recent work focuses on explorable 3D interiors: character-following cameras, movement, stairs, furniture collisions, and more convincing character models, clothing, and animation. It remains a playable development version, with both the simulation and the visual experience evolving.
 
-### [Nestful](https://github.com/plaxkk/nestful)
+[Play MirrorLife](https://mirrorlife.kkplayit.online/) · [Source](https://github.com/plaxkk/MirrorLife)
 
-A WeChat ecosystem MVP for family collaboration: reminders, activities, memories, health routines, files, and household coordination in one private family space.
+### Nestful · A Shared Home for Family Routines
 
-Why it matters to me: family software should feel calm, useful, and trustworthy. The hard part is not feature count; it is making shared routines easier without becoming noisy.
+Nestful is a WeChat Mini Program MVP for family coordination and shared memories. Its core flows cover family spaces and invitations, member profiles, birthdays and anniversaries, activities, a memory wall, health reminders, and a household ledger.
 
-## Interests From Recent Stars
+This year's work built those flows and their backend, then improved invitation handling, profile saving, session recovery, and WeChat subscription-message reminders. Reminder targeting, recurring schedules, and dispatch reliability became a particular focus.
 
-Over the last year, my stars have clustered around:
+The motivation is simple: make it easier to remember a birthday, coordinate care, plan something together, and keep the small moments that matter.
 
-- AI agents, coding agents, multi-agent systems, agent memory, and agent evaluation;
-- Codex / Claude Code / Cursor-style workflows, MCP, code intelligence, and knowledge graphs;
-- local-first and privacy-aware tools for chat history, WeChat data, personal archives, and automation;
-- generative agents, social simulation, game agents, and narrative systems;
-- builder infrastructure such as self-hosted backends, API gateways, newsletters, social publishing, and automation tools.
+[Explore Nestful](https://github.com/plaxkk/nestful)
 
-The strongest language signal from those repos is **Python** and **TypeScript**, with regular interest in **Go**, **Rust**, **C/C++**, and local desktop or CLI tooling.
+### TravelAi · A Trip Plan You Can Keep Talking To
+
+TravelAi's itinerary planner turns a destination, trip length, budget, and interests into an editable daily plan. Conversation, itinerary details, and an interactive map sit together, so travelers can refine a route while seeing how the days and places fit.
+
+Work this year includes conversational revisions, itinerary saving, shareable plans that others can adapt, an in-trip AI assistant, multilingual interfaces, and mobile layouts.
+
+I also built supporting skills for this project: extracting evidence-backed travel needs from public videos, organizing source-backed guide material, reviewing editorial quality, and using Qwen for multilingual rewriting with factual-consistency checks. These tools support the planner's content and usability.
+
+The project is under active development; source code is private.
+
+### Paper-loop · From Reading a Paper to Reviewing the Results
+
+Paper-loop connects my AI learning and technical writing workflow: study a paper, develop an article, check it against the source, prepare the visuals, and distribute drafts for review.
+
+The toolchain supports personal writing preferences, formula rendering, figure extraction, and model-assisted article review. It uses wechatsync to adapt and send drafts to WeChat Official Accounts, Zhihu, Juejin, and CSDN, with human review before publication.
+
+It also brings reading and engagement data back into audience analysis and topic planning. I developed the workflow this year and released the public repository in September.
+
+[Explore Paper-loop](https://github.com/plaxkk/paper-loop)
+
+### jetbrains-keygen · A Small Browser Utility
+
+A static, browser-based JetBrains activation-code generator for technical study. The page performs generation locally and provides product selection, configurable license details, and copyable output.
+
+This year's work includes the initial tool, usage documentation, Chinese, English, Korean, and Russian pages, and multilingual search indexing. It is an independent research project, unaffiliated with JetBrains.
+
+[Website](https://jetbrains-keygen.kkplayit.online/) · [Alternate address](https://jetbrains-keygen.vercel.app/) · [Source](https://github.com/plaxkk/jetbrains-keygen)
 
 ## How I Work
 
-- I prefer a concrete first loop over a complete imagined platform.
-- I write down scope and non-goals because trust usually comes from clear limits.
-- I like local-first defaults for private or personal data.
-- I use AI agents heavily, but I review their output as an operator, not a spectator.
-- I try to turn each project into a system that can learn from its own usage.
+- Start with a concrete, usable flow and improve it through feedback.
+- Keep private and personal data local where practical.
+- Use AI agents heavily, with explicit scope, review, and delivery evidence.
+- Turn recurring lessons into reusable project rules and skills.
+- Be clear about what works today and what is still an experiment.
 
-## Open Notes
+Project descriptions reflect repository documentation and development records reviewed for this update. Public source links are included where available. See [PROFILE_SOURCES.md](PROFILE_SOURCES.md) for the evidence and link-selection notes.
 
-This profile is generated from public GitHub evidence: my public repositories, recent public activity, and recent starred repositories. It is not meant to overstate contribution level or ownership. When I mention a fork or an experiment, I label it that way.
-
-For a short evidence log behind this page, see [PROFILE_SOURCES.md](PROFILE_SOURCES.md).
-
-Last refreshed from public GitHub data: **2026-06-29**.
+Last updated: **2026-09-19**.
 
 ---
 

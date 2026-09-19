@@ -1,83 +1,54 @@
 # Profile Sources
 
-This file records the public evidence used to write the GitHub profile README.
+Evidence notes for the GitHub profile update prepared on **2026-09-19**, covering work from **2026-01-01 through 2026-09-19**.
 
-## User
+## Scope and Method
 
-- GitHub username: `plaxkk`
-- Public bio as of 2026-06-29: `be real, be brave, be positive`
-- Public profile: <https://github.com/plaxkk>
+The profile groups the owner's work into six requested themes: AiTeam, MirrorLife, Nestful, TravelAi, Paper-loop, and jetbrains-keygen.
 
-## Repository Signals
+The update draws on GitHub repository metadata, repository READMEs, local development history, and relevant implementation files. Repository visibility was checked through GitHub on 2026-09-19. Paper-loop's current public README and public commit history were checked separately because its local development history predates the public release.
 
-Recent public repositories and forks considered:
+Repository documentation describes capabilities and intent; it is not evidence of adoption, measured productivity gains, or production reliability. This profile does not make those claims. It also distinguishes MVPs and playable development versions from finished products.
 
-- <https://github.com/plaxkk/MirrorLife>
-  - Description: `镜像人生 — 卡通社会游戏，创建分身，观察自演化世界`
-  - Public README positions it as a personal narrative social-simulation game.
-- <https://github.com/plaxkk/nestful>
-  - Description: `nestful小窝，一款家庭助手小程序`
-  - Public README positions it as a WeChat ecosystem family collaboration and emotional connection tool.
-- <https://github.com/plaxkk/AiTeam>
-  - Description: `Local dashboard and auditor for AI-assisted coding teams.`
-  - Public README positions it as a local dashboard and audit loop for independent developers using AI coding agents.
-- <https://github.com/plaxkk/slark>
-  - Fork / experiment around local programmable AI team workflows.
-- <https://github.com/plaxkk/libcimbar>
-  - Recent fork around color-icon-matrix barcodes.
-- <https://github.com/plaxkk/chatlog_alpha>
-  - Recent fork around WeChat chat log tooling.
+## Project Evidence
 
-## Recent Activity Signals
+| Project | Public evidence | Basis for the description |
+| --- | --- | --- |
+| AiTeam | [Repository](https://github.com/plaxkk/AiTeam) | README and May development history: local Codex/Claude Code collection, project analysis, role evaluation, founder and execution reviews, rule feedback, and dashboard performance work. |
+| MirrorLife | [Repository](https://github.com/plaxkk/MirrorLife) | README and May–September development history: community simulation, personality and memory, narrative consequences, 3D interiors, character controls, collision handling, and visual refinement. |
+| Nestful | [Repository](https://github.com/plaxkk/nestful) | README and May–June development history: family collaboration MVP, invitations, profiles, reminders, activities, memories, ledger, persistence, and reminder delivery improvements. |
+| TravelAi | Owner-approved feature summary; source remains private | Planner documentation and implementation: conversational planning, daily itineraries, maps, saving, sharing and revision, in-trip assistance, localization, and mobile layouts. Supporting skills are grouped under this theme. |
+| Paper-loop | [Repository](https://github.com/plaxkk/paper-loop) | Public README and September release history, supplemented by earlier local development records: paper study, writing preferences, formula and figure handling, review, multi-platform draft distribution, analytics, and strategy feedback. |
+| jetbrains-keygen | [Repository](https://github.com/plaxkk/jetbrains-keygen) | README and June–September development history: static browser tool, product selection, documentation, four language versions, and search indexing. |
 
-Public activity in the recent half-year included:
+## Links and Visibility
 
-- Push activity on `plaxkk/MirrorLife`.
-- Push activity on `plaxkk/nestful`.
-- Pull request activity on `plaxkk/AiTeam`.
-- Public issue/discussion activity around AI-agent tools, local tools, DeepLX, WeChat/chat-log related utilities, and agent workflow products.
+AiTeam, MirrorLife, Nestful, Paper-loop, and jetbrains-keygen were public when checked. Private repository URLs are not included in either the profile or this evidence file.
 
-## Star Signals
+The following published addresses returned HTTP 200 during checks on 2026-09-19:
 
-The README's "Interests From Recent Stars" section was based on starred repositories from roughly the last year. Strong recurring clusters:
+- [MirrorLife](https://mirrorlife.kkplayit.online/)
+- [jetbrains-keygen](https://jetbrains-keygen.kkplayit.online/)
+- [jetbrains-keygen alternate address](https://jetbrains-keygen.vercel.app/)
 
-- AI agents, LLM agents, coding agents, multi-agent workflows, agent memory, and evaluation.
-- Codex / Claude Code / Cursor adjacent workflows.
-- MCP, code intelligence, codebase memory, knowledge graphs, and token-efficient agent infrastructure.
-- Local-first or privacy-aware personal data tools, especially WeChat/chat-history tooling.
-- Generative agents, social simulation, social prediction, game agents, and narrative systems.
-- Builder infrastructure: API gateways, self-hosted backends, newsletters, social posting, automation, and developer utilities.
+These were HTTP availability checks, not complete browser or functional acceptance tests.
 
-Language signal from the sampled starred repositories:
+Nestful is presented as a WeChat Mini Program. The homepage address in its GitHub metadata returned HTTP 404, so no web-demo link is included.
 
-- Python was the strongest signal.
-- TypeScript was the second strongest signal.
-- Go, Rust, C/C++, JavaScript, and desktop/CLI-adjacent tooling appeared repeatedly.
+TravelAi is described only through its itinerary-planning features and supporting skills. No deployment address, private repository link, or broader product context is included. Supporting skills are summarized by function without links that disclose additional project context.
 
-## Tone Rules Used
+## Editorial Decisions
 
-The profile README intentionally avoids:
+- Retain the existing English profile style and personal motto.
+- Replace the June three-project overview with six themes and concrete 2026 progress.
+- Remove the old recent-stars analysis rather than present an unrefreshed sample as current evidence.
+- Do not infer personal contributions from stars or forks.
+- Avoid unsupported adoption figures, speedup claims, uniqueness claims, or finished-product claims.
+- Describe Paper-loop distribution as sending drafts for human review, not unattended final publication.
+- Keep private project context out of all tracked profile documentation.
 
-- claiming ownership of projects that are forks;
-- saying "expert" where the public evidence only supports "interested in" or "exploring";
-- hiding experimental status;
-- relying on flashy badges or third-party stats as the main trust signal;
-- making psychological, therapeutic, or product-market-fit claims about projects that are still experiments.
+## Publication Context
 
-The profile README intentionally emphasizes:
+The profile repository is [plaxkk/plaxkk](https://github.com/plaxkk/plaxkk), and `README.md` is its GitHub profile homepage.
 
-- current public work;
-- clear limits and non-goals;
-- local-first and privacy-aware defaults;
-- evidence-based wording;
-- practical, testable product loops.
-
-## Publishing
-
-This profile was published to the public GitHub profile repository:
-
-- Repository: <https://github.com/plaxkk/plaxkk>
-- Homepage target: <https://github.com/plaxkk>
-- Published on: 2026-06-29
-
-`README.md` is the visible profile homepage. This file is kept in the repository as a transparency note for future updates.
+The previous evidence record noted publication on 2026-06-29. The date above records preparation and verification of this update, not confirmation that it has been pushed to GitHub.
