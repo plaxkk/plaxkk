@@ -1,54 +1,49 @@
 # Profile Sources
 
-Evidence notes for the GitHub profile update prepared on **2026-09-19**, covering work from **2026-01-01 through 2026-09-19**.
+Evidence notes for the GitHub profile update prepared on **2026-10-17**.
 
-## Scope and Method
+## Baseline and Scope
 
-The profile groups the owner's work into six requested themes: AiTeam, MirrorLife, Nestful, TravelAi, Paper-loop, and jetbrains-keygen.
+The previous profile update was [acd9aca](https://github.com/plaxkk/plaxkk/commit/acd9acadce78be8201f8ec5925db6aff63355270), committed on **2026-09-19 at 11:41:48 Asia/Shanghai**. GitHub's remote main still pointed to that commit when this update began.
 
-The update draws on GitHub repository metadata, repository READMEs, local development history, and relevant implementation files. Repository visibility was checked through GitHub on 2026-09-19. Paper-loop's current public README and public commit history were checked separately because its local development history predates the public release.
+This revision retains the existing project background and focuses new claims on work after that commit, through October 17. It adds Persona Studio and updates Paper Loop, MirrorLife, Nestful, and TravelAi. AiTeam and jetbrains-keygen remain part of the portfolio; no new commits were found for them in this interval.
 
-Repository documentation describes capabilities and intent; it is not evidence of adoption, measured productivity gains, or production reliability. This profile does not make those claims. It also distinguishes MVPs and playable development versions from finished products.
+Evidence combines Codex project conversations, local Git history and implementation documentation, and current GitHub repository metadata. Task titles and requests were used to locate work; completed-turn reports and repository records were checked to distinguish implementation from plans. Recorded project tests were reviewed as evidence, not rerun for this profile-only change.
 
-## Project Evidence
+Repository documentation describes capabilities and intent, not adoption, measured productivity gains, or production reliability. No such claims are made here.
 
-| Project | Public evidence | Basis for the description |
+## Progress Since the Baseline
+
+| Project | Evidence | Description and limits |
 | --- | --- | --- |
-| AiTeam | [Repository](https://github.com/plaxkk/AiTeam) | README and May development history: local Codex/Claude Code collection, project analysis, role evaluation, founder and execution reviews, rule feedback, and dashboard performance work. |
-| MirrorLife | [Repository](https://github.com/plaxkk/MirrorLife) | README and May–September development history: community simulation, personality and memory, narrative consequences, 3D interiors, character controls, collision handling, and visual refinement. |
-| Nestful | [Repository](https://github.com/plaxkk/nestful) | README and May–June development history: family collaboration MVP, invitations, profiles, reminders, activities, memories, ledger, persistence, and reminder delivery improvements. |
-| TravelAi | Owner-approved feature summary; source remains private | Planner documentation and implementation: conversational planning, daily itineraries, maps, saving, sharing and revision, in-trip assistance, localization, and mobile layouts. Supporting skills are grouped under this theme. |
-| Paper-loop | [Repository](https://github.com/plaxkk/paper-loop) | Public README and September release history, supplemented by earlier local development records: paper study, writing preferences, formula and figure handling, review, multi-platform draft distribution, analytics, and strategy feedback. |
-| jetbrains-keygen | [Repository](https://github.com/plaxkk/jetbrains-keygen) | README and June–September development history: static browser tool, product selection, documentation, four language versions, and search indexing. |
+| Paper Loop | [Site implementation](https://github.com/plaxkk/paper-loop/commit/17a3035), [cloud consolidation](https://github.com/plaxkk/paper-loop/commit/237f7c2), [deployment verification](https://github.com/plaxkk/paper-loop/commit/833e924), [essay migration](https://github.com/plaxkk/paper-loop/commit/9f576bb); README, site verification records, and October 16 Codex delivery reports | Deployed classic-paper timeline and PDF workspace, arXiv imports, progress recovery, deletion, and private cloud persistence. Twelve published essays and 31 original images were migrated; DPO remains a draft. Translation and cited Q&A have implementation and controlled-test coverage, but AI is disabled on the hosted site and real-model quality has not been accepted. Original essays were migrated without a new technical review. |
+| Persona Studio | [Public repository](https://github.com/plaxkk/persona-studio), README, creation and inspiration workflow docs; October history through [efa2497](https://github.com/plaxkk/persona-studio/commit/efa2497); September 24 and October 16 Codex delivery reports | Personal X workspace with local writing engines, a hosted panel, browser connector, persona editing/versioning, an interaction inbox, analytics, weekly reviews, and a staged growth plan. Recent follower reads were verified on a bounded real sample with explicit coverage. Two-week experiments still await enough real data. Current publication is copy-and-open with user completion. The upstream Another-Person-in-X project is attributed. |
+| MirrorLife | [Merged atrium work, PR #28](https://github.com/plaxkk/MirrorLife/pull/28); local development history through October 15; atrium production-art, dialogue, motion, and handoff records; October 13–15 Codex work | Playable exploration, conversations and shared decisions; clothing and hand studies, framing and walk-cycle fixes, rendering and asset-export work. Some later changes exist only on a local development branch, and several asset candidates were rejected or left uninstalled. Final character art and strict desktop frame-time targets remain unfinished. No claim that all latest work is in the public demo. |
+| Nestful | [Relational modules](https://github.com/plaxkk/nestful/commit/f68af87), [collaboration flows](https://github.com/plaxkk/nestful/commit/ebecd02), [primary-family home](https://github.com/plaxkk/nestful/commit/32469b1), [navigation](https://github.com/plaxkk/nestful/commit/a4d1be8), [feature icons](https://github.com/plaxkk/nestful/commit/f8be7f5); data-model and acceptance docs; October 15–17 Codex delivery reports | Supabase/PostgreSQL persistence and isolated family modules, collaboration flows, a daily-use home, direct reminders, unified design and startup-request improvements. Backend deployment is confirmed by project delivery records. The Mini Program remains a preview; two-account/device invitation checks and actual notification delivery remain separate acceptance tasks. |
+| TravelAi | Private repository history after September 19, supporting presentation/navigation work, and September–October Codex conversations | Retain the previously approved itinerary-planning description; add only a general note on supporting presentation, navigation, and visual consistency. Keep private source and business context out of tracked profile files. |
+| AiTeam | [Repository](https://github.com/plaxkk/AiTeam), README and earlier history | Retained background: coding-session collection, project analysis, role evaluation, execution review, and rule feedback. No new post-baseline delivery claimed. |
+| jetbrains-keygen | [Repository](https://github.com/plaxkk/jetbrains-keygen), README and earlier history | Retained background: browser-local utility, product selection, documentation, four language versions, and indexing. No new post-baseline delivery claimed. |
 
-## Links and Visibility
+Other Codex projects were checked for relevant activity. Older content-tooling and travel-support repositories had no new commits in the interval. Video remix conversations were exploratory content work without a new maintained product to feature, so they were not added as a standalone portfolio project.
 
-AiTeam, MirrorLife, Nestful, Paper-loop, and jetbrains-keygen were public when checked. Private repository URLs are not included in either the profile or this evidence file.
+## Public Links and Visibility
 
-The following published addresses returned HTTP 200 during checks on 2026-09-19:
+GitHub metadata was checked on October 17 for the profile repository, AiTeam, MirrorLife, Nestful, Paper Loop, jetbrains-keygen, and Persona Studio. All seven repositories were public. Persona Studio's public repository is plaxkk/persona-studio.
 
-- [MirrorLife](https://mirrorlife.kkplayit.online/)
-- [jetbrains-keygen](https://jetbrains-keygen.kkplayit.online/)
-- [jetbrains-keygen alternate address](https://jetbrains-keygen.vercel.app/)
+Public site links are checked separately from source visibility. HTTP availability does not establish complete product functionality. The MirrorLife demo is an existing development deployment; it must not be read as a deployment of every newer local asset study. Persona Studio's hosted panel depends on a local agent and authorized connector, so the profile primarily links to its repository and setup documentation. Nestful is presented as a Mini Program preview, without a web-demo link.
 
-These were HTTP availability checks, not complete browser or functional acceptance tests.
-
-Nestful is presented as a WeChat Mini Program. The homepage address in its GitHub metadata returned HTTP 404, so no web-demo link is included.
-
-TravelAi is described only through its itinerary-planning features and supporting skills. No deployment address, private repository link, or broader product context is included. Supporting skills are summarized by function without links that disclose additional project context.
+October 17 HTTP checks returned 200 for Paper Loop, MirrorLife, the primary jetbrains-keygen address, and Persona Studio's hosted panel. The old alternate jetbrains-keygen address failed TLS verification during the check and was removed from the profile. GitHub also confirmed MirrorLife PR #28 was merged.
 
 ## Editorial Decisions
 
-- Retain the existing English profile style and personal motto.
-- Replace the June three-project overview with six themes and concrete 2026 progress.
-- Remove the old recent-stars analysis rather than present an unrefreshed sample as current evidence.
-- Do not infer personal contributions from stars or forks.
-- Avoid unsupported adoption figures, speedup claims, uniqueness claims, or finished-product claims.
-- Describe Paper-loop distribution as sending drafts for human review, not unattended final publication.
-- Keep private project context out of all tracked profile documentation.
+- Retain the English profile, personal motto, and factual project style.
+- Lead with the newly usable Paper Loop site and Persona Studio while preserving the wider portfolio.
+- Distinguish deployed services, Mini Program previews, local experiments, rejected asset studies, and disabled AI features.
+- Attribute Persona Studio's upstream project.
+- Avoid unsupported adoption figures, speedup claims, uniqueness claims, follower-growth promises, or completed-production claims.
+- Keep private project context, conversation IDs, local paths, credentials, account analytics, and personal operational details out of tracked files.
+- Preserve human review in the Paper Loop distribution and Persona Studio publishing descriptions.
 
 ## Publication Context
 
-The profile repository is [plaxkk/plaxkk](https://github.com/plaxkk/plaxkk), and `README.md` is its GitHub profile homepage.
-
-The previous evidence record noted publication on 2026-06-29. The date above records preparation and verification of this update, not confirmation that it has been pushed to GitHub.
+The profile repository is [plaxkk/plaxkk](https://github.com/plaxkk/plaxkk), and README.md is its GitHub profile homepage. The date above records preparation and evidence review; publication is confirmed separately by the remote Git commit.
